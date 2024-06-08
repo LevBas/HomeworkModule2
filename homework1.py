@@ -1,4 +1,4 @@
-first = input('Введите первое чмсло: ')
+first = input('Введите первое число: ')
 second = input('Введите второе число: ')
 third = input('Введите третье число: ')
 if first == second and second == third:
